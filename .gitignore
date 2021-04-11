@@ -1,5 +1,5 @@
 node_modules
 package-lock.json
 .stylelintrc.json
-.prettirrc.json
+.prettierrc.json
 .eslintrc.json
