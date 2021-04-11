@@ -25,11 +25,11 @@ Just clone this repo and double click on the `index.html` file and you're all se
 
 1.  No cheating ;)
 2.  If a player encounters `1` as their roll then the turn will be shifted to their opponent
-    <img src="https://i.imgur.com/FqILv5T.gif" alt="focus shift" />
+    <img src="./readme-assets/FqILv5T.gif" alt="focus shift" />
 3.  See in the above image that the current value has been discarded. And, to escape this you should use the hold button because it'll save the score and add it to the main scoreboard otherwise, you'll lose your hard earned score!
-    <img src="https://i.imgur.com/ibGku2B.gif" alt="save score" />
+    <img src="./readme-assets/ibGku2B.gif" alt="save score" />
 4.  `NEW GAME` will reset the entire session
-    <img src="https://i.imgur.com/fSXmTM2.gif" alt="new game button" />
+    <img src="./readme-assets/fSXmTM2.gif" alt="new game button" />
 5.  That's it! Enjoy!
 
 ---
@@ -57,7 +57,7 @@ Tweaking the code and making changes to background, foreground, changing the fon
     ```
 
 3.  Now, in this line `background-image: linear-gradient(to top left, #100029 0%, #920540 100%);` you'd need to change `#100029` and `#920540` to any other color like `aquamarine` and `darkorchid` or, any hex/rgb color codes. Also, you can play around with the angle, alignment and percentage as well
-    <img src="https://i.imgur.com/tSDVgzI.gif" alt="demo" />
+    <img src="./readme-assets/tSDVgzI.gif" alt="demo" />
 
 ### Changing the font
 
@@ -78,4 +78,4 @@ Tweaking the code and making changes to background, foreground, changing the fon
     ```
 
 3.  Now, in this line `font-family: "Nunito", sans-serif;` you'd need to change `"Nunito"` to any other font like `"courier new"`. Also, if you're using a custom font then import it first
-    <img src="https://i.imgur.com/ent18jr.gif" alt="demo" />
+    <img src="./readme-assets/ent18jr.gif" alt="demo" />
