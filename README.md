@@ -1,4 +1,4 @@
-# Pig Game
+# Pig Game | Play it ![here](https://confusedrobo.github.io/zodiac-libra-pig-race/)
 
 This game is a called a pig race game which basically, uses the random dice roll concept.
 For example, when you roll a dice in real life you're bound to get any number between **{1, 2, 3, 4, 5, 6}** assuming you're using a dice that has six faces.
