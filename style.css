@@ -16,7 +16,7 @@ body {
 	font-weight: 400;
 	height: 100vh;
 	color: #333;
-	background-image: linear-gradient(to top left, #100029 0%, #920540 100%);
+	background-image: linear-gradient(to top left, aquamarine 0%, darkorchid 100%);
 	display: flex;
 	align-items: center;
 	justify-content: center;
