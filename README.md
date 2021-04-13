@@ -23,7 +23,7 @@ Just clone this repo and double click on the `index.html` file and you're all se
 
 ## Rules
 
-1.  No cheating <img width="5" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/au-kddi/190/smiling-face-with-smiling-eyes_1f60a.png" alt="focus shift" />
+1.  No cheating <img width="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/au-kddi/190/smiling-face-with-smiling-eyes_1f60a.png" alt="focus shift" />
 2.  If a player encounters `1` as their roll then the turn will be shifted to their opponent
 
     <img src="./readme-assets/FqILv5T.gif" alt="focus shift" />
